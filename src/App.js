@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import './App.css';
 import About from "./pages/About";
 import Home from "./pages/Home";
@@ -19,5 +18,6 @@ function App() {
         </div>
     );
 }
+
 
 export default App;
